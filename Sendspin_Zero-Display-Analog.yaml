@@ -12,7 +12,7 @@ substitutions:
   imagemodel: "HA-character"
 
   # your home assistant weather entity, in most cases the same.
-  ha_weather_entity: weather.forecast_home
+  ha_weather_entity: weather.camp_hill
 
   media_sample_rate: 48000
 
